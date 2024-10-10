@@ -21,7 +21,7 @@ Aprofundar conhecimento em React. </br>
 Introdução ao Node.js e back-end. </br>
 Criar projetos práticos e contribuir com o GitHub. </br>
 
-<strong> 💬 Entre em contato: </strong> <a href="https://www.linkedin.com/in/vinicius-stigliano/" target="_blank"> LinkedIn </a>
+<strong> 💬 Entre em contato: </strong> <a href="https://www.linkedin.com/in/vinicius-stigliano/" target="_blank"> LinkedIn </a>, <a href="https://wa.me/5511911754588" target="_blank"> WhatsApp </a>
 
 </br>
 <p align="center"> Feito com ❤️ por <strong>Vinicius Oliveira Stigliano</strong> </p>
