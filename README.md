@@ -18,7 +18,7 @@ Criar projetos práticos e contribuir com o GitHub. </br>
 
 ⚡ Curiosidades: </br>
 🎓 Estudando na FMU em Análise e Desenvolvimento de Sistemas. </br>
-👨‍💻 Apaixonado por tecnologia e buscando novas oportunidades no mundo da programação. </br> </br>
+👨‍💻 Apaixonado por tecnologia e buscando novas oportunidades no mundo da programação. </br>
 
 💬 Entre em contato: <a href="https://www.linkedin.com/in/vinicius-stigliano/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a>
 
