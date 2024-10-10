@@ -5,7 +5,11 @@ SQL: Bancos de dados relacionais e manipulação de dados. </br>
 HTML5: Estruturação semântica e boas práticas. </br>
 CSS3: Estilização moderna e design responsivo. </br>
 JavaScript: Funcionalidade dinâmica e interatividade. </br>
-Design: Criação visual com Photoshop e Canva. </br>
+
+🎨 Design Skills: </br>
+Photoshop: Edição de imagens, manipulação de fotos e criação de layouts. </br>
+Canva: Criação rápida de designs e materiais gráficos. </br>
+Conhecimento básico em princípios de UI/UX. </br>
 
 🚀 Estou aprendendo: </br>
 Desenvolvimento front-end com JavaScript. </br>
