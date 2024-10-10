@@ -20,5 +20,5 @@ Criar projetos práticos e contribuir com o GitHub. </br>
 🎓 Estudando na FMU em Análise e Desenvolvimento de Sistemas. </br>
 👨‍💻 Apaixonado por tecnologia e buscando novas oportunidades no mundo da programação. </br> </br>
 💬 Entre em contato:
-<p align="left"> <a href="https://www.linkedin.com/in/vinicius-stigliano/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="https://github.com/ViniciusStigliano" target="_blank"> "    " <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vinicius-stigliano/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="https://github.com/ViniciusStigliano" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
 <p align="center"> Feito com ❤️ por <strong>Vinicius Oliveira Stigliano</strong> </p>
